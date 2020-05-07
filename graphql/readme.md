@@ -1,8 +1,8 @@
 ***Song Library***
 **Graph Ql**
-![Back End](https://raw.githubusercontent.com/bhuvimanick/library_assignment/master/library_react/public/graphql.png)
+![Back End](https://raw.githubusercontent.com/bhuvimanick/Samsung_Assignment_Library/master/library_react/public/graphql.png)
 **Front End**
-![Front End](https://raw.githubusercontent.com/bhuvimanick/library_assignment/master/library_react/public/output.png)
+![Front End](https://raw.githubusercontent.com/bhuvimanick/Samsung_Assignment_Library/master/library_react/public/output.png)
 
 **Show Library**
 *Story 1 - Retrieve a List of Songs in Library*
